@@ -10,9 +10,7 @@
         --preto:#000;
         --link: #F9F9F9;
     }
-    
-    
-    
+
     
     body{
         background-color: var(--roxo);
@@ -24,10 +22,13 @@
     input{
         border: none;
         border-radius: 5rem;
+        text-align: center;
         background-color: var(--branco);
         width: 20rem;
         height: 3rem;
     }
+
+    
     
     .botao{
        position: relative;
